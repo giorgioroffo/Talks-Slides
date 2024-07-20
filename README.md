@@ -29,26 +29,32 @@ This repository aims to gather various talks and presentations, making them acce
 - **Slides:** [Download](3_gr_tutorial_LLMs_generative_AI_2024_part3.pdf)
 
 
-### 4. Advancements in Video Understanding: TSM Temporal Shift Module
+### 4. Multimodal Large Language Models (MLLMs)
+- **Date:** 20/07/2024
+- **Event:** Invited Talk
+- **Description:** This talk covers the Multimodal Large Language Models (MLLMs). MLLMs leverage the power of Large Language Models (LLMs) to perform tasks involving these diverse data types.
+- **Slides:** [Download](multimodal_large_language_models.pdf)
+- 
+### 5. Advancements in Video Understanding: TSM Temporal Shift Module
 - **Date:** 03/12/2021
-- **Event:** TSM International Conference
+- **Event:** Invited Talk
 - **Description:** This talk covers the TSM (Temporal Shift Module), an efficient method to convert any off-the-shelf 2D CNN model into a pseudo-3D model for video understanding.
 - **Slides:** [Download](Talks_G_Roffo_TSM_03_12_21.pdf)
 
-### 5. Non-local Neural Networks
+### 6. Non-local Neural Networks
 - **Date:** 03/12/2021
-- **Event:** NLNet Conference
+- **Event:** Invited Talk
 - **Description:** This presentation explores non-local operations for capturing long-range dependencies in neural networks, improving performance in tasks like action recognition, object detection, and instance segmentation.
 - **Slides:** [Download](Talks_G_Roffo_NLnet_03_12_21.pdf)
 
-### 6. Interpretability & Attribution Methods
+### 7. Interpretability & Attribution Methods
 - **Date:** 27/01/2022
-- **Event:** IBA Conference
+- **Event:** Invited Talk
 - **Description:** This talk discusses various attribution methods to explain model behavior, focusing on the interpretability of machine learning models in critical applications such as medical decision-making and autonomous driving.
 - **Slides:** [Download](Talks_G_Roffo_IBA_27-01-22.pdf)
 
-### 7. Vision Transformers and Self-Attention Mechanisms
-- **Date:** Not specified
+### 8. Vision Transformers and Self-Attention Mechanisms
+- **Date:** Invited Talk
 - **Description:** This presentation delves into the Vision Transformer (ViT) and self-attention mechanisms, highlighting their impact on the field of computer vision.
 - **Slides:** [Download](slides_ViT_self_attention_vision_transformer.pdf)
 
